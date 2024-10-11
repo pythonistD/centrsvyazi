@@ -2,3 +2,5 @@
 ++ Компонент обратной связи fix
 
 ++ Acceptance tests done
+
+++ P0, P1
